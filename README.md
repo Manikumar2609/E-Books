@@ -21,7 +21,7 @@
 
 - [Introduction to Algorithms](https://github.com/Manikumar2609/E-Books/blob/master/Data%20Structures%20and%20Algorithms/Introduction%20to%20Algorithms%20-%203rd%20Edition%20by%20Thomas.pdf)
 
-- [The Algorithm Design Manual by Steven S. Skiena](The Algorithm Design Manual by Steven S. Skiena.pdf)
+- [The Algorithm Design Manual by Steven S. Skiena](https://github.com/Manikumar2609/E-Books/blob/master/Data%20Structures%20and%20Algorithms/The%20Algorithm%20Design%20Manual%20by%20Steven%20S.%20Skiena.pdf)
 
 ### Mathematics
 
