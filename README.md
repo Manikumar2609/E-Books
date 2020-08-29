@@ -1,12 +1,12 @@
 # E-Books
 
-**_Reading is an active process whereas watching is a passive one. One needs a lot more attention while reading a book than that of watching videos._**
+> **_Reading is an active process whereas watching is a passive one. One needs a lot more attention while reading a book than that of watching videos._**
 
 
 
-#Lists
+# Lists
 
-## Programming Language
+### Programming Language
 
 - C Programming Notes by Caleb Curry.pdf
 
@@ -16,17 +16,17 @@
 
 - cprogrammingquestion.pdf
 
-## Data Stuctures and Algorithms
+### Data Stuctures and Algorithms
 
 - Introduction to Algorithms - 3rd Edition by Thomas.pdf
 
 - The Algorithm Design Manual by Steven S. Skiena.pdf
 
-## Mathematics
+### Mathematics
 
 - Mathematics for Computer Science.pdf
 
-## Interview Preparation
+### Interview Preparation
 
 - 50-Coding-Interview-Questions-V2.pdf
 
