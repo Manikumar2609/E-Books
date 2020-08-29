@@ -17,6 +17,7 @@
 - cprogrammingquestion.pdf
 
 ### Data Stuctures and Algorithms
+- [Grokking Algorithms](https://github.com/Manikumar2609/E-Books/blob/master/Data%20Structures%20and%20Algorithms/Grokking%20Algorithms.pdf)
 
 - Introduction to Algorithms - 3rd Edition by Thomas.pdf
 
