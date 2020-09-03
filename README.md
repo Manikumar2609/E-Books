@@ -23,6 +23,24 @@
 
 - [The Algorithm Design Manual by Steven S. Skiena](https://github.com/Manikumar2609/E-Books/blob/master/Data%20Structures%20and%20Algorithms/The%20Algorithm%20Design%20Manual%20by%20Steven%20S.%20Skiena.pdf)
 
+### Extra Cheatsheet
+
+- [Algorithm Analysis](https://github.com/Manikumar2609/E-Books/blob/master/Extra%20Cheatsheet/5%20Algorithm%20Analysis.pdf)
+
+- [Analysis of Algorithm](https://github.com/Manikumar2609/E-Books/blob/master/Extra%20Cheatsheet/Analysis%20of%20Algorithms.pdf)
+
+- [C Reference](https://github.com/Manikumar2609/E-Books/blob/master/Extra%20Cheatsheet/C%20Reference%20Card%20(ANSI)%202.2.pdf)
+
+- [CPP Reference](https://github.com/Manikumar2609/E-Books/blob/master/Extra%20Cheatsheet/Cpp_reference.pdf_)
+
+- [STL Quick Reference](https://github.com/Manikumar2609/E-Books/blob/master/Extra%20Cheatsheet/STL%20Quick%20Reference%201.29.pdf)
+
+- [Big-O-cheatsheet](https://github.com/Manikumar2609/E-Books/blob/master/Extra%20Cheatsheet/big-o-cheatsheet.pdf)
+
+- [Bits-cheat-sheet](https://github.com/Manikumar2609/E-Books/blob/master/Extra%20Cheatsheet/bits-cheat-sheet.pdf)
+
+- [git-cheat-sheet](https://github.com/Manikumar2609/E-Books/blob/master/Extra%20Cheatsheet/github-git-cheat-sheet.pdf)
+
 ### Mathematics
 
 - [Mathematics for Computer Science](https://github.com/Manikumar2609/E-Books/blob/master/Data%20Structures%20and%20Algorithms/Mathematics%20for%20Computer%20Science.pdf)
