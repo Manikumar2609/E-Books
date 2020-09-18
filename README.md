@@ -16,6 +16,8 @@
 
 - [cprogrammingquestion](https://github.com/Manikumar2609/E-Books/blob/master/C%20Programming%20Language/cprogrammingquestion.pdf)
 
+- [Cpp Primer Plus](https://github.com/Manikumar2609/E-Books/blob/master/C%20Programming%20Language/Addison.Wesley.CPP.Primer.Plus.6th.Edition.Oct.2011.pdf)
+
 ### Data Stuctures and Algorithms
 - [Grokking Algorithms](https://github.com/Manikumar2609/E-Books/blob/master/Data%20Structures%20and%20Algorithms/Grokking%20Algorithms.pdf)
 
